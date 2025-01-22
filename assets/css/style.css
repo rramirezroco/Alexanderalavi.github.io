@@ -1,22 +1,16 @@
+@font-face {
+  font-family: "Roboto-Light";
+  src: url(/assets/font/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url(/assets/font/Roboto-Medium.ttf)
+}
+
+
 body {
-    font-family: "Raleway", sans-serif;
-  }
-  
-  
-  .colorbot{
-    color: crimson;
-  }
-  
-  .colorcard{
-    color: blueviolet;
-  }
-  
-  .coloracc{
-    color: darkcyan;
-  }
-  
-  .textblack{
-    color: black;
+    font-family: "Roboto-Light", sans-serif;
   }
 
   ul {

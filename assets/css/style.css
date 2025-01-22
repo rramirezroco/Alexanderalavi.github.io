@@ -1,0 +1,24 @@
+body {
+    font-family: "Raleway", sans-serif;
+  }
+  
+  
+  .colorbot{
+    color: crimson;
+  }
+  
+  .colorcard{
+    color: blueviolet;
+  }
+  
+  .coloracc{
+    color: darkcyan;
+  }
+  
+  .textblack{
+    color: black;
+  }
+
+  ul {
+    list-style: none;
+}

@@ -1,0 +1,56 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header {
+    height: 8em;
+    background-image: url(../img/onepiece.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 4em;
+    font-size: 2em;
+    color: aliceblue;
+    text-align: left;
+    }   
+.header h1{
+    margin: 0px;
+    font-weight: 600;
+}
+.header p{
+    margin: 0px;
+    font-weight: 400;
+}
+
+.productos{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.productos td{
+    width: 50%;
+    padding: 1em;
+    vertical-align: middle;
+    
+}
+.productos img{
+    width: 60%;
+    border: solid 1px white;
+}
+.piepagina{
+height: 6em;
+line-height: 2em;
+background-color: rgb(72, 72, 233);
+color: white;
+font-weight: 900;
+text-align: center;
+vertical-align: middle;
+}
+.piepagina img{
+    width: 3%;
+    margin: 0%;
+}
+span{
+    font-weight: bolder;
+}
+*{
+    margin: 0;
+}

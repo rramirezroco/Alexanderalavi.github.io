@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(/assets/font/Roboto-Light.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(/assets/font/Roboto-Medium.ttf)
+}
+
+
+.titulo{
+    font-family: 'Roboto-Light';
+    color: #212529;
+    font-size: 1.67rem;
+}
+
+.empresa{
+    font-family: 'Roboto-Light';
+    color: #707070;
+    font-size: 1.333rem;
+}
+
+.direcc{
+    font-family: 'Roboto-Light';
+    color: #707070;
+    font-size: 1.083rem;
+}
+
+.precio{
+    font-family: 'Roboto-Light';
+    color: #707070;
+    font-size: 1.333rem;
+}
+
+.oferta{
+    font-family: 'Roboto-Medium';
+    color: #28A745;
+    font-size: 1.667rem;
+}
+
+.titleform{
+    font-family: 'Roboto-Medium';
+    color: #FFFFFF;
+    font-size: 1.313rem;
+}

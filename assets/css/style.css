@@ -1,19 +1,30 @@
 @font-face {
   font-family: "Roboto-Light";
-  src: url(/assets/font/Roboto-Light.ttf);
+  src: url(../font/Roboto-Light.ttf);
 }
 
 @font-face {
   font-family: "Roboto-Medium";
-  src: url(/assets/font/Roboto-Medium.ttf)
+  src: url(../font/Roboto-Medium.ttf);
 }
-
 
 body {
-    font-family: "Roboto-Light", sans-serif;
-  }
-
-  ul {
-    list-style: none;
+  font-family: "Roboto-Light", sans-serif;
 }
 
+ul {
+  list-style: none;
+}
+
+.span-fechas {
+  font-style: italic;
+  color: rgb(95, 95, 95);
+}
+
+.accordion-body {
+  margin-left: 20px;
+}
+
+.icon-rrss {
+  text-decoration: none;
+}
